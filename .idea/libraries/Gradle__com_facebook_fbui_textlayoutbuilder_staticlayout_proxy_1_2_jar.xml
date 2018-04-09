@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fbui.textlayoutbuilder:staticlayout-proxy:1.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.2/100a188730bb1e5e83b66b66566fceb3a996d177/staticlayout-proxy-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.2/25bb04bb6edaa0391c5edcb080e058ed4ae048fc/staticlayout-proxy-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

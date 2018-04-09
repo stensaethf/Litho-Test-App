@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-sections-widget-0.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/litho-sections-widget-0.13.1.aar/69484ddcf594cd75da7b5b9c3525769c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/litho-sections-widget-0.13.1.aar/69484ddcf594cd75da7b5b9c3525769c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-widget/0.13.1/c653511634cb97486362d4a13b14fbfc9e4f80c8/litho-sections-widget-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

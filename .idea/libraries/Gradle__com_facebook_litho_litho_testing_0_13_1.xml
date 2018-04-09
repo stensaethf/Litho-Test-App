@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-testing-0.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/litho-testing-0.13.1.aar/224115fb3c3f33e3f2c68d53a75fe1f9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/litho-testing-0.13.1.aar/224115fb3c3f33e3f2c68d53a75fe1f9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-testing/0.13.1/762af1f5f14e9901664d998810dda71af3d3b725/litho-testing-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

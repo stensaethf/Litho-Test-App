@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-annotations:0.13.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-annotations/0.13.1/1901d20d12795dfd0c5a539c35bc1b2c4dd8bdca/litho-annotations-0.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-annotations/0.13.1/3dd6eb6911155b37c06de88f73ca4a91186e8461/litho-annotations-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

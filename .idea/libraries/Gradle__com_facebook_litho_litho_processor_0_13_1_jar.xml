@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-processor:0.13.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-processor/0.13.1/55f8f695430c36898e136ecb0d56da3bd1f920ee/litho-processor-0.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-processor/0.13.1/7fb29cf4cc78a176ad1f685cf61fbdcb90e2dd87/litho-processor-0.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
